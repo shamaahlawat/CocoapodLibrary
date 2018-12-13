@@ -1,0 +1,16 @@
+PODS:
+  - CocoapodLibrary (0.1.0)
+
+DEPENDENCIES:
+  - CocoapodLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  CocoapodLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoapodLibrary: 290855a53a7709ffef702ecfd849e02ee4238a07
+
+PODFILE CHECKSUM: c74901f5bc5d76ef9a3d4c282c5ba4e3a580707c
+
+COCOAPODS: 1.5.3

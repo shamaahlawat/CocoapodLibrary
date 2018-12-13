@@ -1,0 +1,22 @@
+{
+  "name": "CocoapodLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of CocoapodLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shamaahlawat/CocoapodLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shamaahlawat": "shama@oriserve.com"
+  },
+  "source": {
+    "git": "https://github.com/shamaahlawat/CocoapodLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoapodLibrary/Classes/**/*"
+}
